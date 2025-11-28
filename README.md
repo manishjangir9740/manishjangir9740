@@ -14,11 +14,11 @@
 
 ### 🌐 Follow on Social Networks
 
-<a href="[https://www.linkedin.com/in/manish-jangir/](https://www.linkedin.com/in/manish-jangid-8096991b4/](https://www.linkedin.com/in/manish-jangid-8096991b4/)">
+<a href="https://www.linkedin.com/in/manish-jangid-8096991b4/">
   <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/>
-</a>&nbsp;
+</a>&ensp;
 
-<a href="[https://x.com/Manishjangir308](https://x.com/Manishjangir308)">
+<a href="https://x.com/Manishjangir308">
   <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"/>
 </a>&ensp;
 
