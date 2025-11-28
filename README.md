@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there 👋 I am Manish Kumar
 
-<!--
-**manishjangir9740/manishjangir9740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack AI Developer | Frontend Specialist | Product-Focused Engineer**
 
-Here are some ideas to get you started:
+- 🔭 Currently building **AI-enabled full-stack applications** using React, Next.js, Node.js, and Python  
+- 🤖 Exploring **AI/ML integration**, real-time systems, and intelligent automation  
+- 🌱 Strengthening my expertise in **Frontend Engineering, UI/UX, and scalable system architecture**  
+- 👯 Open to collaborating on **AI tools, Next.js/MERN products, and innovative web applications**  
+- 💬 Ask me about **JavaScript, React, Next.js, Python, Node.js, REST APIs, and performance optimization**  
+- 🎯 Focused on creating **smart, fast, and impactful digital experiences**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+### 🌐 Follow on Social Networks
+
+<a href="https://www.linkedin.com/in/manish-jangir/">
+  <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/>
+</a>&ensp;
+
+<a href="https://twitter.com/">
+  <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"/>
+</a>&ensp;
+
+<br>
+### 🔧 Languages and Tools
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
+
